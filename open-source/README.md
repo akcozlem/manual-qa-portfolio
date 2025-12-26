@@ -9,9 +9,20 @@ Repository: https://github.com/kabirbaidhya/react-todo-app
 - Demo link hosted on Heroku is not working
 
 Description:
-The demo link provided in the README leads to a Heroku page that is no longer accessible.
-This issue was reported to help improve project usability and documentation.
-
+Sample React-based todo application created as part of a React workshop, demonstrating step-by-step development of a todo app.
 
 Issue Link:
 https://github.com/kabirbaidhya/react-todo-app/issues/61
+
+
+## Project: todo-app-github-pages
+Repository: https://github.com/sfac10sfac10/todo-app-github-pages
+
+Description:
+Web-based todo application hosted via GitHub Pages, allowing users to add and manage task items.
+
+### Issue reported:
+- Todo item can be added with only whitespace characters
+
+Issue link:
+https://github.com/sfac10sfac10/todo-app-github-pages/issues/1
