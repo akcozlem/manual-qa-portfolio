@@ -5,11 +5,11 @@ This folder contains my open source QA contributions.
 ## Project: react-todo-app
 Repository: https://github.com/kabirbaidhya/react-todo-app
 
-### Issue reported:
-- Demo link hosted on Heroku is not working
-
 Description:
 Sample React-based todo application created as part of a React workshop, demonstrating step-by-step development of a todo app.
+
+### Issue reported:
+- Demo link hosted on Heroku is not working
 
 Issue Link:
 https://github.com/kabirbaidhya/react-todo-app/issues/61
