@@ -18,6 +18,9 @@
 - Order confirmation page is displayed
 - Confirmation email is sent to the user
 
+**Notes:**
+- Payment behavior may vary depending on payment provider
+- In some environments, confirmation email delivery may be delayed
 
 ---
 
@@ -52,7 +55,7 @@
 
 **Expected Result:**
 - Payment is declined
-- Proper validation error message is displayed
+- Error message is displayed (exact message may vary)
 - Order is not created
 
 
@@ -87,4 +90,5 @@
 
 **Expected Result:**
 - Checkout page loads successfully
-- Page load time is within acceptable limits
+- Page load time is acceptable and does not impact user experience
+
